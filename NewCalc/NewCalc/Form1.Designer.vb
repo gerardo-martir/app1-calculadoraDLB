@@ -84,6 +84,7 @@ Partial Class Form1
         'TextBox1
         '
         Me.TextBox1.BackColor = System.Drawing.Color.LavenderBlush
+        Me.TextBox1.Enabled = False
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Tai Le", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox1.Location = New System.Drawing.Point(103, 55)
         Me.TextBox1.Name = "TextBox1"
@@ -94,8 +95,9 @@ Partial Class Form1
         'TextBox2
         '
         Me.TextBox2.BackColor = System.Drawing.Color.LavenderBlush
+        Me.TextBox2.Enabled = False
         Me.TextBox2.Font = New System.Drawing.Font("Microsoft Tai Le", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(103, 93)
+        Me.TextBox2.Location = New System.Drawing.Point(103, 90)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(235, 28)
         Me.TextBox2.TabIndex = 4
@@ -310,12 +312,13 @@ Partial Class Form1
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Checked = True
         Me.RadioButton1.Location = New System.Drawing.Point(8, 70)
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.Size = New System.Drawing.Size(90, 17)
         Me.RadioButton1.TabIndex = 24
         Me.RadioButton1.TabStop = True
-        Me.RadioButton1.Text = "RadioButton1"
+        Me.RadioButton1.Text = "Seleccionado"
         Me.RadioButton1.UseVisualStyleBackColor = True
         '
         'RadioButton2
@@ -326,7 +329,7 @@ Partial Class Form1
         Me.RadioButton2.Size = New System.Drawing.Size(90, 17)
         Me.RadioButton2.TabIndex = 25
         Me.RadioButton2.TabStop = True
-        Me.RadioButton2.Text = "RadioButton2"
+        Me.RadioButton2.Text = "Seleccionado"
         Me.RadioButton2.UseVisualStyleBackColor = True
         '
         'Form1

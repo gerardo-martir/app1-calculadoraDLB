@@ -22,3 +22,15 @@ C:\Users\win512\Downloads\app1-calculadoraDLB-main (5)\app1-calculadoraDLB-main\
 C:\Users\win512\Downloads\app1-calculadoraDLB-main (5)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.exe
 C:\Users\win512\Downloads\app1-calculadoraDLB-main (5)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.xml
 C:\Users\win512\Downloads\app1-calculadoraDLB-main (5)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.pdb
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\bin\Debug\NewCalc.exe.config
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\bin\Debug\NewCalc.exe
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\bin\Debug\NewCalc.pdb
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\bin\Debug\NewCalc.xml
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.Form1.resources
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.Resources.resources
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.exe
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.xml
+C:\Users\win512\Downloads\app1-calculadoraDLB-main (7)\app1-calculadoraDLB-main\NewCalc\NewCalc\obj\Debug\NewCalc.pdb
